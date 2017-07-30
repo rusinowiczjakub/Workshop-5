@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Workspace/Warsztat IV/.idea/Warsztat IV.iml" filepath="$USER_HOME$/Workspace/Warsztat IV/.idea/Warsztat IV.iml" />
+      <module fileurl="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_3/4_Model_i_Doctrine/1_Doctrine/doctrine_project/.idea/doctrine_project.iml" filepath="$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_3/4_Model_i_Doctrine/1_Doctrine/doctrine_project/.idea/doctrine_project.iml" />
+      <module fileurl="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/.idea/projekt_form.iml" filepath="$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/.idea/projekt_form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workshop_5.iml" filepath="$PROJECT_DIR$/.idea/workshop_5.iml" />
+    </modules>
+  </component>
+</project>
