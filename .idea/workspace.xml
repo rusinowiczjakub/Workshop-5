@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c009a0b7-6b33-4f71-99e5-5dfd989b1138" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Workspace/Warsztat IV/html/groups.html" afterPath="$USER_HOME$/Workspace/Warsztat IV/html/groups.html" />
-    </list>
+    <list default="true" id="c009a0b7-6b33-4f71-99e5-5dfd989b1138" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,111 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Items.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Workspace/Warsztat IV/src/Items.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1456">
-              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-              <folding>
-                <marker date="1501375236523" expanded="true" signature="717:859" ph="INSERT INTO Items... " />
-                <marker date="1501375236523" expanded="true" signature="1353:1450" ph="UPDATE Produ... " />
-                <marker date="1501375236523" expanded="true" signature="1989:2016" ph="DELETE FROM " />
-                <marker date="1501375236523" expanded="true" signature="2243:2262" ph="SELECT * FRO... Items" />
-                <marker date="1501375236523" expanded="true" signature="2825:2860" ph="SELECT * FRO... Items" />
-                <marker date="1501375236523" expanded="true" signature="2825:2869" ph="SELECT * FRO... Items" />
-                <marker date="1501375236523" expanded="true" signature="2825:2908" ph="SELECT * FRO... Items" />
-                <marker date="1501375236523" expanded="true" signature="3473:3505" ph="SELECT * FRO... Items" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Group.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Workspace/Warsztat IV/src/Group.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="784">
-              <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-              <folding>
-                <marker date="1501370524451" expanded="true" signature="398:429" ph="SELECT * FRO... Groups" />
-                <marker date="1501370524451" expanded="true" signature="594:632" ph="INSERT INTO Groups... " />
-                <marker date="1501370524451" expanded="true" signature="964:984" ph="SELECT * FRO... Groups" />
-                <marker date="1501370524451" expanded="true" signature="1412:1440" ph="DELETE FROM " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="render.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Workspace/Warsztat IV/src/render.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/nav.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-              <folding>
-                <marker date="1501372133161" expanded="true" signature="929:940" ph="..." />
-                <marker date="1501372133161" expanded="true" signature="941:1037" ph="..." />
-                <marker date="1501372133161" expanded="true" signature="1158:1169" ph="..." />
-                <marker date="1501372133161" expanded="true" signature="1170:1240" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="items.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/items.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="groups.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/groups.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="itemsByGroups.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/itemsByGroups.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <replaceStrings>
@@ -133,15 +27,9 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/app/AppKernel.php" />
-        <option value="$PROJECT_DIR$/src/StoreBundle/Entity/Person.php" />
         <option value="$PROJECT_DIR$/src/StoreBundle/StoreBundle.php" />
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
-        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-        <option value="$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/newPerson.html.twig" />
-        <option value="$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/modifyPerson.html.twig" />
-        <option value="$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/src/AppBundle/Controller/TweetController.php" />
-        <option value="$PROJECT_DIR$/src/StoreBundle/Controller/PersonController.php" />
         <option value="$USER_HOME$/Workspace/Warsztat IV/config.php" />
         <option value="$USER_HOME$/Workspace/Warsztat IV/connection.php" />
         <option value="$USER_HOME$/Workspace/Warsztat IV/src/Groups.php" />
@@ -165,6 +53,19 @@
         <option value="$USER_HOME$/Workspace/Warsztat IV/html/index.php" />
         <option value="$USER_HOME$/Workspace/Warsztat IV/src/Items.php" />
         <option value="$USER_HOME$/Workspace/Warsztat IV/html/groups.html" />
+        <option value="$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/src/AppBundle/Controller/TweetController.php" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Resources/views/css/style.css" />
+        <option value="$PROJECT_DIR$/app/Resources/views/css/style.css" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Entity/Person.php" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Entity/Address.php" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Repository/AddressRepository.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Form/AddressType.php" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/onePerson.html.twig" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Controller/PersonController.php" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/modifyPerson.html.twig" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/newPerson.html.twig" />
+        <option value="$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/allPersons.html.twig" />
       </list>
     </option>
   </component>
@@ -183,10 +84,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
-    <option name="y" value="2" />
-    <option name="width" value="1360" />
-    <option name="height" value="740" />
+    <option name="x" value="-174" />
+    <option name="y" value="33" />
+    <option name="width" value="1358" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,34 +110,27 @@
           <expand>
             <path>
               <item name="workshop_5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Warsztat IV" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="workshop_5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Warsztat IV" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="workshop_5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Warsztat IV" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="project_validation" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Resources/views" />
+      <recent name="$PROJECT_DIR$/src/StoreBundle/Resources/views/Person" />
+      <recent name="$PROJECT_DIR$/src/StoreBundle/Resources/views/css" />
       <recent name="$USER_HOME$/Workspace/Warsztat IV/html" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$USER_HOME$/Workspace/Warsztat IV/html" />
     </key>
   </component>
@@ -267,18 +161,19 @@
       <workItem from="1501320721976" duration="1298000" />
       <workItem from="1501322105536" duration="12254000" />
       <workItem from="1501351705708" duration="23335000" />
-      <workItem from="1501411774115" duration="1608000" />
+      <workItem from="1501411774115" duration="7330000" />
+      <workItem from="1501439834727" duration="14917000" />
+      <workItem from="1501486266698" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50796000" />
+    <option name="totallyTimeSpent" value="71954000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="2" width="1368" height="786" extended-state="6" />
-    <editor active="true" />
+    <frame x="-174" y="33" width="1368" height="786" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1566618" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -308,94 +203,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/app/Resources/views/default/newUser.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/app/Resources/views/default/showTweet.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/newPerson.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Controller/PersonController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/app/Resources/views/default/update.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/src/AppBundle/Controller/TweetController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="994">
-          <caret line="77" column="4" lean-forward="false" selection-start-line="77" selection-start-column="4" selection-end-line="98" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/app/Resources/views/default/newUser.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/newPerson.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/app/Resources/views/default/showTweet.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Entity/Person.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -476,24 +287,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Controller/PersonController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="102" column="49" lean-forward="false" selection-start-line="102" selection-start-column="49" selection-end-line="102" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/app/Resources/views/default/update.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -504,25 +301,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/newPerson.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/src/AppBundle/Controller/TweetController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Workspace/Warsztat IV/phpunit.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,7 +328,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,14 +336,6 @@
     <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/css/shop-item.css" />
     <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/categories.html" />
     <entry file="file://$USER_HOME$/Workspace/Warsztat IV/itemsForm.php" />
-    <entry file="file://$USER_HOME$/Workspace/Warsztat IV/src/render.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Workspace/Warsztat IV/sql/create_database.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -575,16 +347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1456">
           <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding>
-            <marker date="1501375236523" expanded="true" signature="717:859" ph="INSERT INTO Items... " />
-            <marker date="1501375236523" expanded="true" signature="1353:1450" ph="UPDATE Produ... " />
-            <marker date="1501375236523" expanded="true" signature="1989:2016" ph="DELETE FROM " />
-            <marker date="1501375236523" expanded="true" signature="2243:2262" ph="SELECT * FRO... Items" />
-            <marker date="1501375236523" expanded="true" signature="2825:2860" ph="SELECT * FRO... Items" />
-            <marker date="1501375236523" expanded="true" signature="2825:2869" ph="SELECT * FRO... Items" />
-            <marker date="1501375236523" expanded="true" signature="2825:2908" ph="SELECT * FRO... Items" />
-            <marker date="1501375236523" expanded="true" signature="3473:3505" ph="SELECT * FRO... Items" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,12 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="784">
           <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-          <folding>
-            <marker date="1501370524451" expanded="true" signature="398:429" ph="SELECT * FRO... Groups" />
-            <marker date="1501370524451" expanded="true" signature="594:632" ph="INSERT INTO Groups... " />
-            <marker date="1501370524451" expanded="true" signature="964:984" ph="SELECT * FRO... Groups" />
-            <marker date="1501370524451" expanded="true" signature="1412:1440" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,16 +364,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Workspace/Warsztat IV/src/render.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/nav.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <marker date="1501372133161" expanded="true" signature="929:940" ph="..." />
-            <marker date="1501372133161" expanded="true" signature="941:1037" ph="..." />
-            <marker date="1501372133161" expanded="true" signature="1158:1169" ph="..." />
-            <marker date="1501372133161" expanded="true" signature="1170:1240" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,9 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,16 +403,127 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_3/4_Model_i_Doctrine/1_Doctrine/doctrine_project/app/Resources/views/book/showBook.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_3/4_Model_i_Doctrine/1_Doctrine/doctrine_project/src/AppBundle/Controller/BookController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/src/AppBundle/Controller/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Entity/Person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Form/AddressType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Repository/AddressRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1501451613518" expanded="true" signature="379:431" ph="SELECT a FRO... StoreBundle" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Workspace/Warsztat IV/html/index.php">
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Controller/PersonController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="868">
+          <caret line="70" column="87" lean-forward="false" selection-start-line="70" selection-start-column="87" selection-end-line="70" selection-end-column="87" />
+          <folding>
+            <element signature="e#42#72#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Entity/Address.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#38#70#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="48" column="22" lean-forward="false" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/allPersons.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/newPerson.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/onePerson.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StoreBundle/Resources/views/Person/modifyPerson.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Kurs/WAR_PHP_S_9_Symfony_2/1_Zadania/Tydzien_1/Dzien_4/5_Formularze/projekt_form/src/AppBundle/Controller/TweetController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding />
         </state>
       </provider>

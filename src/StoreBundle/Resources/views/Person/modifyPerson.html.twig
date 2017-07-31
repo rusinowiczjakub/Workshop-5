@@ -1,12 +1,19 @@
 {% extends 'base.html.twig' %}
 {% block div %}
     {{ parent() }}
-    <div class="text-center">
-        <div style="width:30%">
+    <div style='overflow:auto; width: 600px;height:400px; text-align: center'>
+        <a style="padding: 5px; float: left" href="/person/"><button class="btn btn-primary">Back </button></a><br><br><br>
+        <div>
             {{ form_start(form) }}
             {{ form_widget(form) }}
             <input type="submit" class="btn btn-primary" value="Edit">
             {{ form_end(form) }}
+        </div><hr style="border-top: 1px solid;color: #2e6da4">
+        <div>Address<br>
+            {{ form_start(formAddress) }}
+            {{ form_widget(formAddress) }}
+            <input type="submit" class="btn btn-primary" value="Edit">
+            {{ form_end(formAddress) }}
         </div>
     </div>
 {% endblock %}

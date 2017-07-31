@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block div %}
+    {{ parent() }}
+
+    <div style='overflow:auto; width: 600px;height:400px; text-align: center'>
+        <a style="padding: 5px; float: left" href="/person/new"><button class="btn btn-primary">Add New </button></a><br><br><br>
+        {% for person in allPeople %}
+            <a href="/person/{{ person.id }}"><h3>{{ person.name }} {{ person.surname }}</h3></a>
+        {% endfor %}
+    </div>
+
+{% endblock %}
